@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Monideepa-da
+- 👋 Hi, I’m Monideepa Tak
 - 👀 I’m interested in ...Python Project 
 - 🌱 I’m currently learning ...Data Analyst
 - 💞️ I’m looking to collaborate on ...Python project 
-- 📫 How to reach me ...
+- 📫 How to reach me ...monideepa.tak@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
