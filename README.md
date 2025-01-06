@@ -13,7 +13,7 @@ I work with a wide range of data analytics tools, including:
 **Programming Languages**: Python, SQL
 **Data Manipulation**: Pandas, NumPy
 **Data Visualization**: Power BI, Matplotlib
-**Database Management**: PostgreSQL, SQL Server
+**Database Management**: PostgreSQL, DB2
 
 - 📫 HYou can reach me on my mail id "monideepa.tak@gmail.com"
 
