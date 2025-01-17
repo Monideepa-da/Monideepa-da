@@ -9,7 +9,7 @@
 
 Tools an Technologies:
 I work with a wide range of data analytics tools, including:
-**Programming Languages**: Python, SQL
+**Programming Languages**: Python, SQL,Cobol,JCL
 **Data Manipulation**: Pandas, NumPy
 **Data Visualization**: Power BI, Matplotlib
 **Database Management**: PostgreSQL, DB2
