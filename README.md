@@ -3,8 +3,7 @@
 - I specialize in:
  **Data Analysis & Visualization**:  Using tools like Advanced Excel, Power BI, and Python (Matplotlib, NumPy) to uncover actionable insights from data.
  **Data Cleaning & Preparation**: Transforming raw data into structured formats using Python (Pandas), SQL, and various preprocessing techniques.
- **Databases & SQL**: Writing complex queries to extract, clean, and analyze data from relational databases.
- **cloud services**: Demonstrated knowledge of Scrum principles and practices for effective teamwork and project management
+ **Databases & SQL**: Writing complex queries to extract, clean, and analyze data from relational databases. 
  **Project Management**: Demonstrated knowledge of Scrum principles and practices for effective teamwork and project management.
   In addition to my training, I bring with me years of experience in problem-solving, analysis, and data management from my work in the mainframe domain.
 
